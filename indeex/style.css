@@ -1,0 +1,98 @@
+/* General styles */
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Header styles */
+header {
+  background-color: #2e3d49;
+  color: white;
+  text-align: center;
+  padding: 1.5rem 1rem;
+}
+
+/* Navigation */
+nav {
+  background-color: #1e2a33;
+  text-align: center;
+  padding: 0.75rem 0;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+section h2 {
+  border-bottom: 2px solid #008cba;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Project list */
+#projects ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#projects li {
+  background: white;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.1);
+}
+
+/* Button */
+.project-btn {
+  background-color: #008cba;
+  border: none;
+  color: white;
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 1rem;
+  text-decoration: none;
+}
+
+.project-btn:hover {
+  background-color: #005f75;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  background-color: #2e3d49;
+  color: white;
+  margin-top: 3rem;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #008cba;
+  display: block;
+  margin: 1rem auto;
+}
