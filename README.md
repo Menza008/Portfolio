@@ -21,6 +21,8 @@ Welcome to my personal portfolio! This site showcases my background, skills, and
 |--------|-------------|--------------|------|
 | **Bhutan Through Code** | An cultural archive featuring Bhutanese historical monuments to preerve bhutanese heritage in a modern format |  HTML, CSS, JS | (https://menza008.github.io/Portfolio/) |
 | **Mental Health Chatbot** | A simple chatbot built to provide tips and suggestions regarding mental helth |  HTML, CSS, python  | (https://menza008.github.io/Portfolio/) |
+| **Mental Health Chatbot** | A simple chatbot built to provide tips and suggestions regarding mental helth |  HTML, CSS, python  | (https://menza008.github.io/Portfolio/) |
+| **Password Generator** | A password generator built to provide storng and reliable passwords |  HTML, CSS, JS  | (https://menza008.github.io/Portfolio/) |
 
 ---
 
